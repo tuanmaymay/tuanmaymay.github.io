@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Gửi bạn iuuuu',
-    introDesc: `Nay ngày 8-3 tôi có đôi điều gửi đến chị!`,
+    introDesc: `Nay ngày 8-3 tôi có đôi điều gửi đến bạn!`,
     btnIntro: 'Cảm ơn bạn Tuấn đẹp trai',
     title: 'Chúc bạn một ngày 8/3 thật ý nghĩa, vui tư­ơi ngập tràn hạnh phúc. Chúc bạn luôn cười tư­ơi, cư­ời duyên, cư­ời e thẹn, cư­ời trẻ trung, ngập tràn các kiểu cười trong ngày hôm nay. 😙',
     desc: 'Hôm nay trời đẹp thế nhở, Ỏoooooooooooo. Làm người yêu mình nhé <3',
