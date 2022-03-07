@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Bấm để tiếp tục điều thú zị',
     reply: 'Chúc bạn nhận đư­ợc nhiều quà, nhiều hoa, nhiều lời khen, lời chúc của phái nam trong ngày hôm nay. Chúc bạn gặp nhiều may mắn hơn, hạnh phúc hơn nhiều niềm vui, nhiều điều tuyệt diệu hơn trong cuộc sống.              ',
     mess: '8-3 vui vẻ nhé 🥰. Cảm ơn vì đã xem hết 😘😘',
-    messDesc: 'Click nốt cái dưới cho em vui nhé chị!!!',
+    messDesc: 'Click nốt cái dưới cho mình vui nhé!!!',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100039401357783'
 }
